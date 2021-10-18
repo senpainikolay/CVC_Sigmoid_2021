@@ -14,4 +14,4 @@ Another photos were attached below.
 
 
 # 2000th epoch (nope. we go backwards): 
-![alt text](Fits_epoch2000.png)
+![alt text](NoFit_epoch2000.png)
