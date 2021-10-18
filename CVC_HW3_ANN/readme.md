@@ -13,5 +13,5 @@ Another photos were attached below.
 ![alt text](Fits_epoch500.png) 
 
 
-# 2000th epoch: 
+# 2000th epoch (nope. we go backwards): 
 ![alt text](Fits_epoch2000.png)
