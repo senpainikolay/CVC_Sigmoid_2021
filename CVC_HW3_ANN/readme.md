@@ -2,7 +2,7 @@
 Another photos were attached with test results.
 
 650th eppch: 
-![alt text](Fits_epoch650.png) 
+![alt text](Fits_epoch650.png)  \n
 
 
 450th epoch (good results):
